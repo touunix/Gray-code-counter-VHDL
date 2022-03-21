@@ -26,11 +26,11 @@ W przeprowadzonej symulacji oraz weryfikacji na płytce, reset licznika został 
 
 Wyniki weryfikacji na płytce są przedstawione na wyjściach układu, czyli diodach świecących LED0, LED1 oraz LED2.
 
-###### Wyniki weryfikacji
-<img src="https://user-images.githubusercontent.com/79804729/159365492-5ab89294-8dcc-407d-b7c8-deb00d68a9fa.gif" width="90%"></img>
-
 ###### Wyniki symulacji
 <img src="https://user-images.githubusercontent.com/79804729/159081862-caa62a1e-baa6-421e-a119-236a441e64c9.png" width="90%"></img>
+
+###### Wyniki weryfikacji
+<img src="https://user-images.githubusercontent.com/79804729/159365492-5ab89294-8dcc-407d-b7c8-deb00d68a9fa.gif" width="90%"></img>
 
 ###### Opis plików
 
