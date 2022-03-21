@@ -2,7 +2,7 @@
 ###### Description:
 The circuit serves as a three-bit counter that counts in the Gray code. Counting takes place when the rising edge of the clock appears. The clock pulses are realized using the BTN0 button pressed by the user. The system has an asynchronous reset, which is performed using the BTN3 button. Pressing this button resets the counter.
 
-In the simulation and verification on the board. The counter was reset twice - at the beginning of the simulation and verification and during it. The second reset was made in such a way that its operation can be seen at the counter output. Simulation and verification show all possible counter readings.
+In the simulation and verification on the board, the counter was reset twice - at the beginning of the simulation and verification and during it. The second reset was made in such a way that its operation can be seen at the counter output. Simulation and verification show all possible counter readings.
 
 The results of the verification on the board are presented on the outputs of the system, i.e. LED0, LED1 and LED2.
 
@@ -18,7 +18,7 @@ The results of the verification on the board are presented on the outputs of the
 ###### Opis:
 Układ po zaprogramowaniu, służy jako trzybitowy licznik, który liczy w kodzie Graya. Zliczanie odbywa się, gdy pojawia się narastające zbocze zegara. Impulsy zegara realizowane są za pomocą przycisku BTN0 wciskanego przez użytkownika. Układ posiada reset asynchroniczny, który jest realizowany za pomocą przycisku BTN3. Wciśnięcie tego przycisku skutkuje wyzerowaniem licznika.
 
-W przeprowadzonej symulacji oraz weryfikacji na płytce. Reset licznika został wykonany dwa razy – na początku symulacji oraz weryfikacji i w jej trakcie. Drugi reset został wykonany w taki sposób, aby było widać jego działanie na wyjściu licznika. Symulacja oraz weryfikacja przedstawia wszystkie możliwe stany licznika.
+W przeprowadzonej symulacji oraz weryfikacji na płytce, reset licznika został wykonany dwa razy – na początku symulacji oraz weryfikacji i w jej trakcie. Drugi reset został wykonany w taki sposób, aby było widać jego działanie na wyjściu licznika. Symulacja oraz weryfikacja przedstawia wszystkie możliwe stany licznika.
 
 Wyniki weryfikacji na płytce są przedstawione na wyjściach układu, czyli diodach świecących LED0, LED1 oraz LED2.
 
